@@ -1,0 +1,28 @@
+{
+  "name": "f_f",
+  "version": "1.0.0",
+  "lockfileVersion": 0,
+  "requires": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Friends Fun Fries Friday FUC...nvm that last part. ITS DA FRIEND FINDER",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheD3c0y/F_F.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheD3c0y/F_F/issues"
+  },
+  "homepage": "https://github.com/TheD3c0y/F_F#readme"
+}
